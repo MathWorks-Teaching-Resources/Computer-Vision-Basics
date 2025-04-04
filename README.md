@@ -83,7 +83,7 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 ## **OpticalFlow.mlx (planned)**
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_7.png" width="67" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Explore use cases for optical flow for image segmentation. <br> $\bullet$ Implement optical flow algorithms for motion detection including Lucas\-Kanade, Horn\-Schunk, and Lucas\-Kanade Derivative of Gaussian methods. <br> $\bullet$ Compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_7.png" width="159" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine assumptions underlying optical flow theory. <br> $\bullet$ Implement optical flow algorithms for motion detection. <br> $\bullet$ Compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 <a id="H_F61733D7"></a>
 
