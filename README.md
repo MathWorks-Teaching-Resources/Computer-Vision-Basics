@@ -5,7 +5,7 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-computer-vision-basics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FComputer-Vision-Basics%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Computer-Vision-Basics)
 
@@ -78,7 +78,7 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 ## **RegionSegmentation.mlx (planned)**
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_6.png" width="172" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Explore region segmentation techniques. <br> $\bullet$ Compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Explore region segmentation techniques. <br> $\bullet$ Compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 ## **OpticalFlow.mlx (planned)**
 ||||
