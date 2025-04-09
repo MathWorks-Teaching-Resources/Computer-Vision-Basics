@@ -55,7 +55,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 ## Products
 
-MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Computer Vision Toolbox™, and Statistics and Machine Learning Toolbox™ are used frequently as well.
+MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Computer Vision Toolbox™, Signal Processing Toolbox™ and Statistics and Machine Learning Toolbox™ are used frequently as well.
 
 <a id="H_E8C62B23"></a>
 
