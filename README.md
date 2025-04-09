@@ -60,7 +60,7 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 <a id="H_E8C62B23"></a>
 
 # Scripts
-## **IntrotoImageSegmentation.mlx (planned)**
+## [**IntrotoImageSegmentation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/IntrotoImageSegmentation.mlx)
 ||||
 | :-: | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine three image segmentation methods.  <br> $\bullet$ Work through step\-by\-step examples of applying image segmentation. <br> $\bullet$ Distinguish appropriate image segmentation technique based on scenario. <br>  | **Academic disciplines** <br> $\bullet$ Robotics <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
