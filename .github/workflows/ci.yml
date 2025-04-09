@@ -32,6 +32,13 @@ jobs:
           sudo apt-get install xvfb
           Xvfb :99 &
           echo "DISPLAY=:99" >> $GITHUB_ENV
+
+      # Install gstreamer
+      - name: Install gstreamer
+        if: ${{ always() }}
+        run: |
+          sudo apt-get install  --no-install-recommends -y libgstreamer1.0-0 gstreamer1.0-tools gstreamer1.0-libav gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly
+
       
       # Sets up MATLAB
       - name: Setup MATLAB
