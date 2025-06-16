@@ -15,7 +15,7 @@ _Created with R2025a. Compatible with R2025a and later releases._
 
 # Information
 
-This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) centered on the fundamentals of image segmentation.
+This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) centered on the fundamentals of image segmentation in computer vision.
 
 <a id="H_F00D98E4"></a>
 
@@ -75,15 +75,15 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ Evaluate edge detection methods. <br> $\bullet$ Apply edge detection techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>             <br>   |
 
-## **RegionSegmentation.mlx (planned)**
+## [**RegionSegmentation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/RegionSegmentation.mlx) 
 ||||
 | :-: | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Explore region segmentation techniques. <br> $\bullet$ Compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
-## **OpticalFlow.mlx (planned)**
+## [**OpticalFlow.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/OpticalFlow.mlx)
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_7.png" width="159" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine assumptions underlying optical flow theory. <br> $\bullet$ Implement optical flow algorithms for motion detection. <br> $\bullet$ Compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine assumptions underlying optical flow theory. <br> $\bullet$ Implement optical flow algorithms for motion detection. <br> $\bullet$ Compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 <a id="H_F61733D7"></a>
 
@@ -97,14 +97,14 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 ## [Convolution in Digital Image Processing](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)
 |||
 | :-- | :-- |
-| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing&project=Convolution.prj&file=README.mlx)  <br> [GitHub](https://github.com/https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing) <br>   |
+| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing&project=Convolution.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing) <br>   |
 
 <a id="H_868F5748"></a>
 
 ## [Calculus Derivatives](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives?s_tid=srchtitle)
 |||
 | :-- | :-- |
-| <img src="Images/image_11.png" width="171" alt="image_11.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Calculus-Derivatives&project=Derivatives.prj&file=README.mlx)  <br> [GitHub](https://github.comhttps//github.com/MathWorks-Teaching-Resources/Calculus-Derivatives) <br>   |
+| <img src="Images/image_11.png" width="171" alt="image_11.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Calculus-Derivatives&project=Derivatives.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives) <br>   |
 
 <a id="H_868F5748"></a>
 
@@ -122,7 +122,7 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Image-Basics/blob/release/CONTRIBUTING.md)  page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Basics/blob/release/CONTRIBUTING.md)  page on GitHub.
 
 
  *©* Copyright 2025 The MathWorks, Inc.
