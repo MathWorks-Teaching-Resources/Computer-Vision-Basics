@@ -63,27 +63,27 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 ## [**IntrotoImageSegmentation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/IntrotoImageSegmentation.mlx)
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine three image segmentation methods.  <br> $\bullet$ Work through step\-by\-step examples of applying image segmentation. <br> $\bullet$ Distinguish appropriate image segmentation technique based on scenario. <br>  | **Academic disciplines** <br> $\bullet$ Robotics <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine three image segmentation methods.  <br> $\bullet$ work through step\-by\-step examples of applying image segmentation. <br> $\bullet$ distinguish appropriate image segmentation technique based on scenario. <br>  | **Academic disciplines** <br> $\bullet$ Robotics <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 ## [**EdgeDetectionTheory.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionTheory.mlx)
 ||||
 | :-- | :-- | :-- |
-| <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Identify and describe the characteristics and sources of edges. <br> $\bullet$ Characterize edges in 1D and 2D. <br> $\bullet$ Detect edges amid noise. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br> $\bullet$ Medical Imaging <br>             <br>   |
+| <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ identify and describe the characteristics and sources of edges. <br> $\bullet$ characterize edges in 1D and 2D. <br> $\bullet$ detect edges amid noise. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br> $\bullet$ Medical Imaging <br>             <br>   |
 
 ## [**EdgeDetectionApplied.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionApplied.mlx) 
 ||||
 | :-- | :-- | :-- |
-| <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ Evaluate edge detection methods. <br> $\bullet$ Apply edge detection techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>             <br>   |
+| <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ evaluate edge detection methods. <br> $\bullet$ apply edge detection techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>             <br>   |
 
 ## [**RegionSegmentation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/RegionSegmentation.mlx) 
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Explore region segmentation techniques. <br> $\bullet$ Compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ explore region segmentation techniques. <br> $\bullet$ compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 ## [**OpticalFlow.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/OpticalFlow.mlx)
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Examine assumptions underlying optical flow theory. <br> $\bullet$ Implement optical flow algorithms for motion detection. <br> $\bullet$ Compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine assumptions underlying optical flow theory. <br> $\bullet$ implement optical flow algorithms for motion detection. <br> $\bullet$ compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 <a id="H_F61733D7"></a>
 
