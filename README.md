@@ -62,7 +62,7 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 # Scripts
 ## [**IntrotoImageSegmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/IntrotoImageSegmentation.mlx)
 ||||
-| :-: | :-- | :-- |
+| :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine three image segmentation methods.  <br> $\bullet$ work through step\-by\-step examples of applying image segmentation. <br> $\bullet$ distinguish appropriate image segmentation technique based on scenario. <br>  | **Academic disciplines** <br> $\bullet$ Robotics <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 ## [**EdgeDetectionTheory**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionTheory.mlx)
@@ -77,12 +77,12 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 
 ## [**RegionSegmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/RegionSegmentation.mlx) 
 ||||
-| :-: | :-- | :-- |
+| :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ explore region segmentation techniques. <br> $\bullet$ compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 ## [**OpticalFlow**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/OpticalFlow.mlx)
 ||||
-| :-: | :-- | :-- |
+| :-- | :-- | :-- |
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine assumptions underlying optical flow theory. <br> $\bullet$ implement optical flow algorithms for motion detection. <br> $\bullet$ compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
 <a id="H_F61733D7"></a>
