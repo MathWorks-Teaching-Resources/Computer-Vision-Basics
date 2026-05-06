@@ -47,10 +47,7 @@ codegen/
 # Project settings
 Utilities/ProjectSettings.mat
 
-# GitLab page folder
-<<<<<<< HEAD
+# Testing and CI related artifact
 public/
-/Images/BeeC.mov
-=======
-public/
->>>>>>> 7a163557553bc77a5e6482632aa73a1426aa6598
+.buildtool/
+ci_utilities/
