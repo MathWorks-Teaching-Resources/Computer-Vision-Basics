@@ -84,6 +84,7 @@ jobs:
         Image_Processing_Toolbox
         Statistics_and_Machine_Learning_Toolbox
         Deep_Learning_Toolbox
+        Signal_Processing_Toolbox
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
