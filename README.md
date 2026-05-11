@@ -7,7 +7,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/computer-vision-basics/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/computer-vision-basics)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Computer-Vision-Basics/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Computer-Vision-Basics)
 
 **Curriculum Module**
 

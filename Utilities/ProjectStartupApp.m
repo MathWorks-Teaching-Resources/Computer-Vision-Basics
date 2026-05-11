@@ -24,7 +24,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
     properties (Access = private)
         GitHubOrganization = "MathWorks-Teaching-Resources"; % Description
         GitHubRepository = "Computer-Vision-Basics";
-        ImagePath {mustBeFile} = fullfile("Images","image_3.png"); 
+        ImagePath {mustBeFile} = fullfile(currentProject().RootFolder,"Images","image_3.png"); 
     end
 
     properties (Access = private)
