@@ -1,5 +1,8 @@
-%  Pre-run script for IntrotoImageSegmentation.mlx
+%  Pre-run script for IntrotoImageSegmentation.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
  
+
+% <matlab:ShareFeedback Share your feedback>
+

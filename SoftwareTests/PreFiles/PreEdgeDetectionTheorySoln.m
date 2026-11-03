@@ -1,8 +1,11 @@
-%  Pre-run script for EdgeDetectionTheorySoln.mlx
+%  Pre-run script for EdgeDetectionTheorySoln.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
 GetPosition = @(IdealEdge,AddNoise) GetPositionSpoofing(IdealEdge,AddNoise);
+
+% <matlab:ShareFeedback Share your feedback>
+
 
 function [Position,EdgeImage,ImageTitle] = GetPositionSpoofing(IdealEdge,AddNoise) % Function to call drawline
 EdgeImage = imread(IdealEdge);

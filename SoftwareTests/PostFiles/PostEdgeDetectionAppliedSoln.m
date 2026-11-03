@@ -1,3 +1,6 @@
-%  Post-run script for EdgeDetectionAppliedSoln.mlx
+%  Post-run script for EdgeDetectionAppliedSoln.m
 % ---- Post-run commands -----
  
+
+% <matlab:ShareFeedback Share your feedback>
+
