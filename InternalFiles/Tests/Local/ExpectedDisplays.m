@@ -20,7 +20,7 @@ classdef ExpectedDisplays < matlab.unittest.TestCase
 
         function Scripts = GetScriptName(Project)
             RootFolder = currentProject().RootFolder;
-            Scripts = dir(fullfile(RootFolder,"Scripts","*.mlx"));
+            Scripts = dir(fullfile(RootFolder,"Scripts","*.m"));
             Scripts = {Scripts.name};
         end
 

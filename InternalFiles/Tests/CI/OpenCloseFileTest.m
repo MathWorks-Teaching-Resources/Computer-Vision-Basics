@@ -24,15 +24,14 @@ classdef OpenCloseFileTest < matlab.unittest.TestCase
 
     methods(Test)
 
-        % Test that all the MLX file open correctly and are not corrupted
-        function OpenCloseMLX(testCase)
+        % Test that converted live scripts open correctly as plain-text MATLAB files
+        function OpenCloseLiveScripts(testCase)
 
-            files = dir(fullfile(testCase.rootProject,"*.mlx"));
-            files = [files;dir(fullfile(testCase.rootProject,"Scripts","*.mlx"))];
-            files = [files;dir(fullfile(testCase.rootProject,"Utilities","*.mlx"))];
-            files = [files;dir(fullfile(testCase.rootProject,"FunctionLibrary","*.mlx"))];
+            files = dir(fullfile(testCase.rootProject,"*.m"));
+            files = [files;dir(fullfile(testCase.rootProject,"Scripts","*.m"))];
+            files = [files;dir(fullfile(testCase.rootProject,"InstructorResources","Solutions","*.m"))];
 
-            for i = 1:size(files)
+            for i = 1:numel(files)
                 filepath = fullfile(files(i).folder,files(i).name);
                 fid = matlab.desktop.editor.openDocument(filepath);
                 fid.closeNoPrompt;
@@ -42,7 +41,7 @@ classdef OpenCloseFileTest < matlab.unittest.TestCase
         % Test that all the MAT file open correctly and are not corrupted
         function OpenCloseMAT(testCase)
             files = dir(fullfile(testCase.rootProject,"Data","*.mat"));
-            for i = 1:size(files)
+            for i = 1:numel(files)
                 matpath = fullfile(files(i).folder,files(i).name);
                 mid = open(matpath); %#ok<NASGU>
                 clear mid
@@ -52,7 +51,7 @@ classdef OpenCloseFileTest < matlab.unittest.TestCase
         % Test that all the SLX file open correctly and are not corrupted
         function testSLX(testCase)
             files = dir(fullfile(testCase.rootProject,"Models","*.slx"));
-            for i = 1:size(files)
+            for i = 1:numel(files)
                 modpath = fullfile(files(i).folder,files(i).name);
                 open_system(modpath)
                 close_system(modpath)

@@ -5,7 +5,7 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Computer-Vision-Basics/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Computer-Vision-Basics)
 
@@ -38,11 +38,13 @@ This module assumes knowledge of first year calculus, linear algebra. There is m
 
 <a id="H_330E72C3"></a>
 
+MATLAB R2024b or older: use the [legacy live-script version](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Basics/releases/tag/mlx).
+
 ## Getting Started
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Image-Basics&project=ComputerVisionBasics.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
@@ -60,27 +62,27 @@ MATLAB® is used throughout. Tools from the Image Processing Toolbox™, Compute
 <a id="H_E8C62B23"></a>
 
 # Scripts
-## [**Intro to Image Segmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/IntrotoImageSegmentation.mlx)
+## [**Intro to Image Segmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/IntrotoImageSegmentation.m)
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine three image segmentation methods.  <br> $\bullet$ work through step\-by\-step examples of applying image segmentation. <br> $\bullet$ distinguish appropriate image segmentation technique based on scenario. <br>  | **Academic disciplines** <br> $\bullet$ Robotics <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
-## [**Edge Detection Theory**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionTheory.mlx)
+## [**Edge Detection Theory**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionTheory.m)
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ identify and describe the characteristics and sources of edges. <br> $\bullet$ characterize edges in 1D and 2D. <br> $\bullet$ detect edges amid noise. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br> $\bullet$ Medical Imaging <br>             <br>   |
 
-## [**Edge Detection Applied**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionApplied.mlx) 
+## [**Edge Detection Applied**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/EdgeDetectionApplied.m)
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ evaluate edge detection methods. <br> $\bullet$ apply edge detection techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>             <br>   |
 
-## [**Region Segmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/RegionSegmentation.mlx) 
+## [**Region Segmentation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/RegionSegmentation.m)
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ explore region segmentation techniques. <br> $\bullet$ compare and contrast including histogram, k\-means clustering, and graph\-cut segmentation techniques.  <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
 
-## [**Optical Flow**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/OpticalFlow.mlx)
+## [**Optical Flow**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=Scripts/OpticalFlow.m)
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ examine assumptions underlying optical flow theory. <br> $\bullet$ implement optical flow algorithms for motion detection. <br> $\bullet$ compare and contrast optical flow techniques. <br>  | **Academic disciplines** <br> $\bullet$ Computer Vision <br> $\bullet$ Image Processing <br>   |
@@ -97,21 +99,21 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 ## [Convolution in Digital Image Processing](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)
 |||
 | :-- | :-- |
-| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing&project=Convolution.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing) <br>   |
+| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing&project=Convolution.prj&file=README.m)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Convolution-Digital-Signal-Processing) <br>   |
 
 <a id="H_868F5748"></a>
 
 ## [Calculus Derivatives](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives?s_tid=srchtitle)
 |||
 | :-- | :-- |
-| <img src="Images/image_11.png" width="171" alt="image_11.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Calculus-Derivatives&project=Derivatives.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives) <br>   |
+| <img src="Images/image_11.png" width="171" alt="image_11.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Calculus-Derivatives&project=Derivatives.prj&file=README.m)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives) <br>   |
 
 <a id="H_868F5748"></a>
 
 ## [Machine Learning Methods: Clustering](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)
 |||
 | :-- | :-- |
-| <img src="Images/image_14.png" width="171" alt="image_14.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering) <br>   |
+| <img src="Images/image_14.png" width="171" alt="image_14.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=README.m)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering) <br>   |
 
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
@@ -125,6 +127,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Basics/blob/release/CONTRIBUTING.md)  page on GitHub.
 
 
- *©* Copyright 2025 The MathWorks, Inc.
+ *©* Copyright 2025-2026 The MathWorks, Inc.
 
 
